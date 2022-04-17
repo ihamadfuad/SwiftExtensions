@@ -10,14 +10,14 @@
 # Sponsor
 [![Sponsor](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/nuralme?country.x=BH&locale.x=en_US)
 
-# AppStoreReviewsAPI
+# SwiftExtensions
 
 A Swift 5.6 implementation of native extensions for iOS, macOS, tvOS, watchOS.
 
 ## Installation
 ### Swift Package Manager (SPM)
 
-You can use The Swift Package Manager to install SwiftEmailValidator by adding it to your Package.swift file:
+You can use The Swift Package Manager to install SwiftExtensions by adding it to your Package.swift file:
 
     import PackageDescription
 
